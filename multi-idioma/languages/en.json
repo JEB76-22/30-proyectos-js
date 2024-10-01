@@ -1,0 +1,15 @@
+{
+    "header":{
+        "about-me": "About Me",
+        "experience":"Experience"
+    },
+    "about-me":{
+        "title":"About Me",
+        "text": "To write an effective About Me page, you should avoid writing superficial stuff and stick to the facts about yourself and your company. An overly wordy About Me page can bore your readers and cause them to leave your page. A good About Me page should also build trust with your readers and establish strong connections with them. Building trust with your customers helps create brand loyalty, so they are more likely to continue supporting your business and choose you over the competition."
+    },
+    "experience":{
+        "title": "Experience",
+        "text":"Your About Me page should also be written for your target audience. When writing your About Me page, try to visualize who your ideal customer is and what their needs and wants are. This will help you get a better idea of ​​what to write about and the style of your content. For example, if your target audience is college students, your About Me page will sound very different than if your target audience is finance professionals. But regardless of who your target audience is, the content on your About Me page should be interesting and engaging. Remember that it’s the first impression your readers will have of your business, so it needs to grab their attention right from the start. Your About Me page is where you can be a little more friendly and casual in your tone, as that helps you come across as more approachable."
+    }
+
+}
