@@ -45,6 +45,6 @@ El resultado se actualiza automáticamente al modificar cualquiera de los campos
 ## 👨‍💻 Autor
 - Desarrollador: JEB$DEV de Javier Berchtold
 - Correo: j.e.b.inter@gmail.com
-**JEB$DEV** - _Desarrollador FrontEnd_
+- **JEB$DEV** - _Desarrollador FrontEnd_
 
 ¡Explora los proyectos y prueba cada uno directamente desde su carpeta!
