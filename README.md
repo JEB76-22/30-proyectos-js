@@ -28,6 +28,8 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 ## 🖼️ Imágenes de los proyectos
 
 ![estadisticas-de-perfil](/estadisticas-de-perfil/estadistica.png)
+![calculadora](/calculadora-prestamos/calculadora.png)
+![color-aleatorio](/color-aleatorio/color.png)
 
 ## 💡 Destacado: `calculadora-prestamos`
 
