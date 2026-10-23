@@ -27,9 +27,7 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 
 ## 🖼️ Imágenes de los proyectos
 
-Agrega aquí las capturas de pantalla de los proyectos. Para insertar una imagen, usa este formato:
-
-![Ventana-Emergente-Video](ventana-emergente-video/videoframe_16668.png)
+![estadisticas-de-perfil](/estadisticas-de-perfil/estadistica.png)
 
 ## 💡 Destacado: `calculadora-prestamos`
 
