@@ -20,5 +20,3 @@ closeIconEl.addEventListener("click", ()=>{
     videoEl.pause();
     videoEl.currentTime = 0;
 })
-
-

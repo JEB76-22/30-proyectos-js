@@ -29,7 +29,7 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 
 Agrega aquí las capturas de pantalla de los proyectos. Para insertar una imagen, usa este formato:
 
-`![Nombre del proyecto](ruta/de/la-imagen.png)`
+`![Ventana-Emergente-Video](/ventana-emergente-video/videoframe_16668.png)`
 
 ## 💡 Destacado: `calculadora-prestamos`
 
