@@ -51,7 +51,7 @@ El resultado se actualiza automáticamente al modificar cualquiera de los campos
 - Si deseas mejorar o agregar proyectos, crea una nueva carpeta con el nombre del proyecto y una breve descripción.
 
 ## 👨‍💻 Autor
-- Desarrollador: JEB$DEV de Javier Berchtold
+- Desarrollador: JEB&DEV de Javier Berchtold
 - Correo: j.e.b.inter@gmail.com
 - **JEB$DEV** - _Desarrollador FrontEnd_
 - [MiGithub](https://github.com/JEB76-22?tab=repositories)
