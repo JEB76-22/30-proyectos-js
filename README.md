@@ -7,19 +7,29 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 - `boton-efecto-domino/` - Botón con efecto visual en cadena.
 - `busqueda-animada/` - Animación de búsqueda con interacción en el input.
 - `calcualdora/` - Calculadora básica con operaciones matemáticas.
+- `calculadora-edad/` - Calculadora de edad a partir de la fecha de nacimiento.
 - `calculadora-prestamos/` - Calculadora de préstamos con pago mensual dinámico.
 - `calendario/` - Calendario interactivo.
 - `color-aleatorio/` - Generador de colores aleatorios.
 - `contador-caracteres/` - Contador de caracteres en tiempo real.
 - `corazon-animado/` - Animación de corazón.
 - `doble-landig-page/` - Landing page con doble contenido.
+- `estadisticas-de-perfil/` - Estadísticas de perfil con contadores animados.
 - `fondosEscri/` - Proyecto de fondos de pantalla para escritorio.
 - `fotos-aleatorias/` - Carga de fotos aleatorias.
 - `modo-oscuro/` - Modo oscuro / modo claro.
 - `multi-idioma/` - Sitio con soporte para múltiples idiomas.
 - `reloj-digital/` - Reloj digital en tiempo real.
 - `slaider-testimonial/` - Slider de testimonios.
+- `temporizador-pomodoro/` - Temporizador Pomodoro con controles para iniciar, detener y reiniciar.
 - `texto-foto/` - Efecto de texto sobre imagen.
+- `ventana-emergente-video/` - Ventana emergente para reproducir un video.
+
+## 🖼️ Imágenes de los proyectos
+
+Agrega aquí las capturas de pantalla de los proyectos. Para insertar una imagen, usa este formato:
+
+`![Nombre del proyecto](ruta/de/la-imagen.png)`
 
 ## 💡 Destacado: `calculadora-prestamos`
 
