@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Estadisticas de Perfil</title>
+</head>
+<body>
+    <div class="stats-container">
+        <i class="fa-solid fa-briefcase fa-3x icon"></i>
+        <div class="contador" data-ceil="15">15</div>
+        <h4>Experiencia</h4>
+    </div>
+
+    <div class="stats-container">    
+        <i class="fa-solid fa-cloud fa-3x icon"></i>
+        <div class="contador" data-ceil="260">260</div>
+        <h4>Sitios-Web</h4>
+    </div>
+
+    <div class="stats-container">
+        <i class="fab fa-apple fa-3x icon"></i>
+        <div class="contador" data-ceil="27">27</div>
+        <h4>Aplicaciones</h4>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
+
+
+<!-- 
+Este archivo anima contadores en la página: busca todos los elementos con la clase `.contador` y hace que cada uno aumente desde `0` hasta el valor indicado en su atributo `data-ceil`.
+
+### Cómo funciona
+
+1. **Selecciona los contadores** con `document.querySelectorAll(".contador")`.
+2. **Recorre cada uno** con `forEach` y establece su contenido inicial en `0`.
+3. **Define y ejecuta** `incrementaContador()`, que:
+   - Lee el número actual del elemento y lo convierte de texto a número.
+   - Calcula el incremento dividiendo el valor objetivo (`data-ceil`) entre `15`.
+   - Suma ese incremento y redondea hacia arriba con `Math.ceil`.
+   - Si todavía no alcanza el objetivo, actualiza el elemento y programa otra ejecución dentro de `40` milisegundos.
+   - Si ya llegó o superó el objetivo, muestra exactamente el valor objetivo.
+
+### Lo más importante
+
+- Cada elemento `.contador` funciona de manera independiente.
+- El valor final depende de su atributo `data-ceil`; por ejemplo, `data-ceil="150"` hará que el contador termine en `150`.
+- La animación suele durar alrededor de **600 ms**: unas 15 iteraciones de 40 ms. El redondeo puede hacer que el número de iteraciones varíe.
+- El atributo `data-ceil` debe contener un número válido; si falta o tiene un valor no numérico, el contador no funcionará correctamente. -->
