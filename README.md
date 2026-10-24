@@ -12,6 +12,7 @@ Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS
 - `calendario/` - Calendario interactivo.
 - `color-aleatorio/` - Generador de colores aleatorios.
 - `contador-caracteres/` - Contador de caracteres en tiempo real.
+- `convertidor-de-temperatura/` - Conversor de temperaturas entre Celsius, Fahrenheit, Kelvin.
 - `corazon-animado/` - Animación de corazón.
 - `de-baterias/` - Kit de batería interactivo con sonidos.
 - `doble-landig-page/` - Landing page con doble contenido.
