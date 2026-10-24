@@ -13,6 +13,7 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 - `color-aleatorio/` - Generador de colores aleatorios.
 - `contador-caracteres/` - Contador de caracteres en tiempo real.
 - `corazon-animado/` - Animación de corazón.
+- `de-baterias/` - Kit de batería interactivo con sonidos.
 - `doble-landig-page/` - Landing page con doble contenido.
 - `estadisticas-de-perfil/` - Estadísticas de perfil con contadores animados.
 - `fondosEscri/` - Proyecto de fondos de pantalla para escritorio.
