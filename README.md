@@ -20,6 +20,7 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 - `fotos-aleatorias/` - Carga de fotos aleatorias.
 - `modo-oscuro/` - Modo oscuro / modo claro.
 - `multi-idioma/` - Sitio con soporte para múltiples idiomas.
+- `reloj/` - Reloj analógico con manecillas en movimiento.
 - `reloj-digital/` - Reloj digital en tiempo real.
 - `slaider-testimonial/` - Slider de testimonios.
 - `temporizador-pomodoro/` - Temporizador Pomodoro con controles para iniciar, detener y reiniciar.
