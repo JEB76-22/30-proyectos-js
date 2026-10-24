@@ -29,10 +29,10 @@ Este repositorio contiene una colección de proyectos pequeños con JavaScript, 
 
 ## 🖼️ Imágenes de los proyectos
 
-![estadisticas-de-perfil](/estadisticas-de-perfil/estadistica.png)
-![calculadora](/calculadora-prestamos/calculadora.png)
-![color-aleatorio](/color-aleatorio/color.png)
-![reloj](/reloj/reloj-analogico.png)
+![estadisticas-de-perfil](/readme-images/estadistica.png)
+![calculadora](/readme-images/calculadora.png)
+![color-aleatorio](/readme-images/color.png)
+![reloj](/readme-images/reloj-analogico.png)
 
 ## 💡 Destacado: `calculadora-prestamos`
 
