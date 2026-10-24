@@ -1,6 +1,6 @@
 # 📚 30 Proyectos JavaScript
 
-Este repositorio contiene una colección de proyectos pequeños con JavaScript, HTML y CSS. Cada carpeta es una aplicación independiente que demuestra interactividad, animaciones, efectos visuales y utilidades web.
+Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS. Cada carpeta es una aplicación independiente que demuestra interactividad, animaciones, efectos visuales y utilidades web.
 
 ## 🚀 Proyectos incluidos
 
