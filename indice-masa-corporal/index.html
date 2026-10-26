@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>IMC Calculadora</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="heading">Indice de Masa Corporal</h1>
+        <label for="">Tu Altura (cm)</label>
+        <input type="number" class="input" id="height" value="180" placeholder="Introduce tu altura en cm">
+
+        <label for="">Tu Peso (kg)</label>
+        <input type="number" class="input" id="weight" value="80" placeholder="Introduce tu peso en kg">
+
+        <button class="btn" id="btn">Calcular IMC</button>
+
+        <input disabled type="text" class="input" id="bmi-result">
+
+        <h4 class="info-text">La condicion es: <span id="weight-condition" ></span></h4>
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -19,6 +19,7 @@ Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS
 - `estadisticas-de-perfil/` - Estadísticas de perfil con contadores animados.
 - `fondosEscri/` - Proyecto de fondos de pantalla para escritorio.
 - `fotos-aleatorias/` - Carga de fotos aleatorias.
+- `indice-masa-corporal` - Calcula el IMC.
 - `modo-oscuro/` - Modo oscuro / modo claro.
 - `multi-idioma/` - Sitio con soporte para múltiples idiomas.
 - `reloj/` - Reloj analógico con manecillas en movimiento.
@@ -34,6 +35,7 @@ Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS
 ![calculadora](/readme-images/calculadora.png)
 ![color-aleatorio](/readme-images/color.png)
 ![reloj](/readme-images/reloj-analogico.png)
+![indice-masa-corporal](/readme-images/imc.png)
 
 ## 💡 Destacado: `calculadora-prestamos`
 
