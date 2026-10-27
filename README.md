@@ -3,7 +3,7 @@
 Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS. Cada carpeta es una aplicación independiente que demuestra interactividad, animaciones, efectos visuales y utilidades web.
 
 ## 🚀 Proyectos incluidos
-
+- `barra-navegacion-fija/` - Barra navegacion cámbia segun scroll.
 - `boton-efecto-domino/` - Botón con efecto visual en cadena.
 - `busqueda-animada/` - Animación de búsqueda con interacción en el input.
 - `calcualdora/` - Calculadora básica con operaciones matemáticas.
@@ -36,6 +36,7 @@ Este repositorio contiene una colección de proyectos con JavaScript, HTML y CSS
 ![color-aleatorio](/readme-images/color.png)
 ![reloj](/readme-images/reloj-analogico.png)
 ![indice-masa-corporal](/readme-images/imc.png)
+![barra-navegacion-fija](/barra-navegacion-fija/barra2.PNG)
 
 ## 💡 Destacado: `calculadora-prestamos`
 
